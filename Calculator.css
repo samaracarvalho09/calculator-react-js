@@ -1,0 +1,49 @@
+
+
+.container-button {
+  display: flex;
+  justify-content: center;
+}
+button {
+  color: black;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  font-size: 1.5em;
+  border: none;
+  border-radius: 2em;
+  margin: 0.3em;
+  text-align: center; 
+  display: flex;
+  justify-content: center;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.wrapper {
+  background-color: black;
+  border-radius:  1em;
+  paddint-top:10px;
+}
+
+.orange {
+  background-color: #FF9500;
+  color: white;
+}
+
+.gray {
+  background-color: #505050;
+  color: white;
+}
+
+.result {
+  color: white;
+  text-align: end;
+  margin-right: 1em;
+  font-size: 3.5em;
+
+}
